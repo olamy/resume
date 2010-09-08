@@ -29,7 +29,7 @@
   <body>
     <section name="Resume">
       <p>
-        You can find a resume in more administrative format <b><a href="olamy-resume.doc">.doc</a></b> (it's normally up2date)
+        You can find a resume in more administrative format <b><a href="olamy-resume.doc">.doc</a></b> or <a href="olamy-resume.pdf">.pdf</a> (it's normally up2date)
       </p>
       <p>As an opensource addict, I use maven to build and publish resume regarding myself :-)</p>
       <p>
