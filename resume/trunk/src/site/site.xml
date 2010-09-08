@@ -30,9 +30,6 @@ under the License.
     <href>${project.url}/index.html</href> 
   </bannerLeft>    
   <body>
-    <menu name="Main">
-      <item name="Welcome" href="/index.html"/>
-    </menu>  
   	<menu ref="reports"/>
   </body>   
 </project>
