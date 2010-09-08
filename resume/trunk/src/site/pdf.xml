@@ -34,6 +34,7 @@ under the License.
     <coverTitle>${project.name}</coverTitle>
     <coverSubTitle>v. ${project.version}</coverSubTitle>
     <projectName>${project.name}</projectName>
+    <companyName>http://people.apache.org/~olamy/resume</companyName>
   </cover>
 </document>
 <!-- END SNIPPET: docDescriptor -->
