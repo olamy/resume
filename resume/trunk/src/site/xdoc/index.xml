@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+
+<!--
+  Licensed to the Apache Software Foundation (ASF) under one
+  or more contributor license agreements.  See the NOTICE file
+  distributed with this work for additional information
+  regarding copyright ownership.  The ASF licenses this file
+  to you under the Apache License, Version 2.0 (the
+  "License"); you may not use this file except in compliance
+  with the License.  You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing,
+  software distributed under the License is distributed on an
+  "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+  KIND, either express or implied.  See the License for the
+  specific language governing permissions and limitations
+  under the License.
+-->
+
+<document xmlns="http://maven.apache.org/XDOC/2.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/XDOC/2.0 http://maven.apache.org/xsd/xdoc-2.0.xsd">
+  <properties>
+    <title>olamy resume home</title>
+    <author email="olamy@apache.org">Olivier Lamy</author>
+  </properties>
+  <body>
+    <section name="Resume">
+      <p>
+        You can find a resume in more administrative format <b><a href="olamy-resume.doc">.doc</a></b> (it's normally up2date)
+      </p>
+      <p>As an opensource addict, I use maven to build and publish resume regarding myself :-)</p>
+      <p>
+        Olivier Lamy
+      </p>
+      <p> 
+        e-mail : olamy AT apache DOT org
+      </p>
+      <subsection name="Work Experience">
+        <p>
+          <b>09/2001 – Present  : Technical Lead / Application Architect – Accor (Hospitality Department)</b>
+          <br/><br/>
+          <i>OpenTravel / XML / Interfaces :</i>
+          <br/>
+          <ul>
+            <li>Lead Developper of an XML Inteface between The Accor Central Reservation System and some Hotel Vendors 
+            (Major ones are :  
+            <a href="http://www.amadeus.com" target="_blank">Amadeus</a>, 
+            <a href="http://www.sabre.com" target="_blank">Sabre</a>, 
+            <a href="http://www.travelport.com" target="_blank">Travelport</a>, 
+            <a href="http://www.expedia.com" target="_blank">Expedia</a>, 
+            <a href="http://www.booking.com" target="_blank">booking.com</a> , 
+            <a href="http://www.kayak.com" target="_blank">kayak</a> etc…)</li>
+            <li>Developed in Java the core architecture to have a pluggable mechanism to handle various XML format from different partners.  
+            Use IOC containers technologies (Plexus, Spring).</li>
+            <li>Application running as a simple webapp in the Tomcat container in Solaris system.</li>
+            <li>Implements a Java application to send to various partners (Expedia, booking.com) rates and inventories in the XML/OTA format.</li>
+            <li>Developed application to build XML/OTA files containing all informations regarding Accor properties 
+            (<a href="http://repos.accorhotels.com/ota/index.html" target="_blank">http://repos.accorhotels.com/ota/index.html</a>)</li>
+          </ul>
+          <br/>
+          <i>Intranet Hospitality Applications</i>
+          <br/>
+          <ul>
+            <li>Implements the first Proof Of Concept regarding migrating some 
+            internal applications written in client-server to a Web Technology.</li>
+            <li>Personally standardized the architecture of the applications based on the Struts2/Spring frameworks 
+            and implements some common web based components shared in all applications.
+            </li>
+            <li>Architect the system for high redundancy using Apache Web Server, Apache Tomcat and network load balancing.</li>
+          </ul>
+          <br/>
+          <i>Internal Company Web Services used by the Front End Website ( <a href="http://www.accorhotels.com" target="_blank">http://www.accorhotels.com</a> )</i>
+          <br/>
+          <ul>
+            <li>Implements a application which dynamically execute stored procedures and exchange the result with xml.</li>
+            <li>Developed a set of common web services (first version with SOAP Axis then moved to REST using jersey framework) 
+            for various applications to access easily to the core system)</li>
+          </ul> 
+          <i>Common Components / Development Standardization</i>
+          <ul>
+            <li>Evangelism to use standard development tools with using Apache Maven, Subversion SCM System, Continuous Integration (Continuum , Hudson) and Sonar.</li>
+            <li>Responsible for creating processes and practices to maximize software quality and productivity.</li>
+            <li>Build a project “a la” Apache Commons  to share reusable Java Components (database access, common hospitality functionality) between various company departments.</li>
+          </ul>
+        </p>
+      </subsection>
+      <subsection name="Open Sources Experiences ">
+        <p>
+          <b>09/2007 – Present: Apache Committer/PMC</b>
+          <br/><br/>
+          <i>Maven Project:</i>
+          <br/>
+          <ul>
+            <li>Bug fixes on Maven core and various Maven plugins.</li>
+            <li>Main maintainer of Maven Scm library.</li>
+          </ul>
+          <br/>
+          <b>09/2007 – Present: : Codehaus Committer</b>
+          <br/><br/>
+          <i>Plexus Project :</i>
+          <br/>
+          <ul>
+            <li>Work on plexus IOC Container.</li>
+            <li>Work on some Plexus Components.</li>
+          </ul>
+          <br/>
+          <i>Mojo Project :</i>
+          <br/>
+          <ul>
+            <li>Work on various Maven Plugins out of the Apache Foundation.</li>
+          </ul>  
+          <br/>
+          <i>Modello Project :</i>
+          <br/>
+          <ul>
+            <li>Work on some bug fixes in the Maven main component.</li>
+          </ul>
+          <br/>
+          <b>09/2007 – Present: : Hudson Committer</b>
+          <br/>
+          <ul>
+            <li>Fix some issues in the Hudson project.</li>
+          </ul>
+        </p>
+      </subsection>   
+      <subsection name="Education">
+        <p>
+          <ul>
+            <li>Starting DEST Software development during work time. (not yet finished)</li>
+            <li>DEUG Lettres Modernes (French literature).</li>
+            <li>DUT Electrical Engineering and Computer Engineering.</li>
+          </ul>
+        </p>
+      </subsection>         
+    </section>
+  </body>
+</document>
+
+

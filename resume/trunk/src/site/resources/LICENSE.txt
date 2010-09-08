@@ -1,6 +1,6 @@
 
                                  olamy License
-                           Version 1.0-beta-1-SNAPSHOT, January 2004
+                           Version 1.0-beta-1-SNAPSHOT, Septembre 2010
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
