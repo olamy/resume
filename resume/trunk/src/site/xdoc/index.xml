@@ -29,15 +29,18 @@
   <body>
     <section name="Resume">
       <p>
-        You can find a resume in more administrative format <b><a href="olamy-resume.doc">.doc</a></b> or <a href="olamy-resume.pdf">.pdf</a> (it's normally up2date)
+        You can find a resume in more administrative format <b><a href="olamy-resume.doc">.doc</a></b> or <b><a href="olamy-resume.pdf">.pdf</a></b> (it's normally up2date)
       </p>
       <p>As an opensource addict, I use maven to build and publish resume regarding myself :-)</p>
       <p>
         Olivier Lamy
       </p>
       <p> 
-        e-mail : olamy AT apache DOT org
+        If you need more details contact me : olamy AT apache DOT org
+        <br/>
+        You can find me on twitter and linkedin with my apache id : olamy .
       </p>
+      <p>This resume can change so you can have a look at the <a href="changelog.html">changelog</a></p>
       <subsection name="Work Experience">
         <p>
           <b>09/2001 – Present  : Technical Lead / Application Architect – Accor (Hospitality Department)</b>
@@ -64,7 +67,7 @@
           <i>Intranet Hospitality Applications</i>
           <br/>
           <ul>
-            <li>Implements the first Proof Of Concept regarding migrating some 
+            <li>Implements the first prototype regarding migrating some 
             internal applications written in client-server to a Web Technology.</li>
             <li>Personally standardized the architecture of the applications based on the Struts2/Spring frameworks 
             and implements some common web based components shared in all applications.
@@ -75,7 +78,7 @@
           <i>Internal Company Web Services used by the Front End Website ( <a href="http://www.accorhotels.com" target="_blank">http://www.accorhotels.com</a> )</i>
           <br/>
           <ul>
-            <li>Implements a application which dynamically execute stored procedures and exchange the result with xml.</li>
+            <li>Implements an application which dynamically execute stored procedures and exchange the result with xml.</li>
             <li>Developed a set of common web services (first version with SOAP Axis then moved to REST using jersey framework) 
             for various applications to access easily to the core system)</li>
           </ul> 
@@ -84,6 +87,10 @@
             <li>Evangelism to use standard development tools with using Apache Maven, Subversion SCM System, Continuous Integration (Continuum , Hudson) and Sonar.</li>
             <li>Responsible for creating processes and practices to maximize software quality and productivity.</li>
             <li>Build a project “a la” Apache Commons  to share reusable Java Components (database access, common hospitality functionality) between various company departments.</li>
+            <li>Implements a global crs real time transaction monitoring (gwt front, rrd storing) : 
+            store/display various figures (number, response time, average response time, etc..) on transactions accessing to the Central Reservation System (load datas from applications using REST/json).</li>
+            <li>Implements a global crs configuration database access configuration (gwt, spring, jpa2) to enable real time “load balancing” 
+            for routing various applications to the database “grid”.</li>
           </ul>
         </p>
       </subsection>
@@ -131,7 +138,7 @@
       <subsection name="Education">
         <p>
           <ul>
-            <li>Starting DEST Software development during work time. (not yet finished)</li>
+            <li>Starting DEST Software development during spare time. (not yet finished as not enough spare time to continue :-( ))</li>
             <li>DEUG Lettres Modernes (French literature).</li>
             <li>DUT Electrical Engineering and Computer Engineering.</li>
           </ul>

@@ -22,7 +22,7 @@ under the License.
   <groupId>org.olamy.resume</groupId>
   <artifactId>nice-resume</artifactId>
   <packaging>pom</packaging>
-  <version>1.0-beta-1-SNAPSHOT (always beta !)</version>
+  <version>1.0-beta-1-SNAPSHOT (always beta ! :-) )</version>
   <name>olamy :: nice-resume</name>
   <url>http://people.apache.org/~olamy/resume/</url>
   <description>
@@ -32,12 +32,13 @@ under the License.
   <scm>
     <connection>scm:svn:http://olamy.googlecode.com/svn/resume/trunk</connection>
     <developerConnection>scm:svn:https://olamy.googlecode.com/svn/resume/trunk</developerConnection>
-    <url>http://code.google.com/p/olamy/source/browse/</url>
+    <url>http://code.google.com/p/olamy/source/browse/resume/trunk</url>
   </scm>
   <mailingLists>
     <mailingList>
-      <name>personnal :-)</name>
+      <name>personnal mailing list</name>
       <post>olamy AT apache DOT org</post>
+      <archive>archives are my mail box ! :-)</archive>
     </mailingList>
   </mailingLists>  
   <build>
@@ -64,6 +65,22 @@ under the License.
                   </reportSet>
                 </reportSets>
               </plugin>            
+              <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-changelog-plugin</artifactId>
+                <version>2.2</version>
+                <configuration>
+                  <type>range</type>
+                  <range>900</range>
+                </configuration>
+                <reportSets>
+                  <reportSet>
+                    <reports>
+                      <report>changelog</report>
+                    </reports>
+                  </reportSet>
+                </reportSets>                
+              </plugin>
             </reportPlugins>
           </configuration>
         </plugin>   
@@ -74,6 +91,24 @@ under the License.
         </plugin>    
       </plugins>
     </pluginManagement>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-pdf-plugin</artifactId>
+        <executions>
+          <execution>
+            <id>pdf</id>
+            <phase>site</phase>
+            <goals>
+              <goal>pdf</goal>
+            </goals>
+            <configuration>
+              <outputDirectory>${project.reporting.outputDirectory}</outputDirectory>
+            </configuration>
+          </execution>
+        </executions>
+      </plugin>
+    </plugins>    
   </build>
   <distributionManagement>
     <site>
@@ -87,36 +122,5 @@ under the License.
       <url>http://olamy.googlecode.com/svn/resume/trunk/src/site/resources/LICENSE.txt</url>
     </license>
   </licenses>
-
-  <profiles>
-    <profile>
-      <id>pdf</id>
-      <activation>
-        <property>
-          <!--name>pdf.skip</name-->
-          <name>pdf.exec</name>
-        </property>
-      </activation>
-      <build>
-        <plugins>
-          <plugin>
-            <groupId>org.apache.maven.plugins</groupId>
-            <artifactId>maven-pdf-plugin</artifactId>
-            <executions>
-              <execution>
-                <id>pdf</id>
-                <phase>site</phase>
-                <goals>
-                  <goal>pdf</goal>
-                </goals>
-                <configuration>
-                  <outputDirectory>${project.reporting.outputDirectory}</outputDirectory>
-                </configuration>
-              </execution>
-            </executions>
-          </plugin>
-        </plugins>
-      </build>
-    </profile>
-  </profiles>  
+ 
 </project>

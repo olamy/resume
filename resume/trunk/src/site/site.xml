@@ -28,7 +28,8 @@ under the License.
     <name>olamy resume</name> 
     <src>images/olamy-manga.jpg</src> 
     <href>${project.url}/index.html</href> 
-  </bannerLeft>    
+  </bannerLeft>
+  <publishDate format="dd MMM yyyy HH:mm"/>    
   <body>
   	<menu ref="reports"/>
   </body>   
