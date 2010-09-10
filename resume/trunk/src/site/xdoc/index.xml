@@ -91,7 +91,8 @@
             store/display various figures (number, response time, average response time, etc..) on transactions accessing to the Central Reservation System (load datas from applications using REST/json).</li>
             <li>Implements a global crs configuration database access configuration (gwt, spring, jpa2) to enable real time “load balancing” 
             for routing various applications to the database “grid”.</li>
-            <li>Implements a cache mechanism in order to prevent applications accessing all the time to the core system to get Hotel Availabilities (reduce database accesses to ~15%)</li>
+            <li>Implements a cache mechanism in order to prevent applications accessing all the time to the core system 
+            to get Hotel Availabilities (reduce database accesses to ~15%) (use ehcache and Woodstox xml fast parser).</li>
           </ul>
         </p>
       </subsection>
