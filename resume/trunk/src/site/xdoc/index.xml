@@ -69,7 +69,7 @@
           <ul>
             <li>Implements the first prototype regarding migrating some 
             internal applications written in client-server to a Web Technology.</li>
-            <li>Personally standardized the architecture of the applications based on the Struts2/Spring frameworks 
+            <li>Personally standardized the architecture of the applications based on the Struts2/Spring/Tiles frameworks 
             and implements some common web based components shared in all applications.
             </li>
             <li>Architect the system for high redundancy using Apache Web Server, Apache Tomcat and network load balancing.</li>
