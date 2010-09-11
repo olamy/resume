@@ -68,7 +68,7 @@
           <br/>
           <ul>
             <li>Implements the first prototype regarding migrating some 
-            internal applications written in client-server to a Web Technology.</li>
+            internal applications written in client-server to a Web Technology (Struts2/Spring/Tiles/yui).</li>
             <li>Personally standardized the architecture of the applications based on the Struts2/Spring/Tiles frameworks 
             and implements some common web based components shared in all applications.
             </li>
