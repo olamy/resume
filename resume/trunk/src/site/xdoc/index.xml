@@ -38,7 +38,7 @@
       <p> 
         If you need more details contact me : olamy AT apache DOT org
         <br/>
-        You can find me on <a href="http://twitter.com/olamy" target="_blank">twitter</a> , <a href="http://fr.linkedin.com/in/olamy" target="_blank">linkedin</a> and some blog entries <a href="http://olamy.blogspot.com/ target="_blank">http://olamy.blogspot.com/</a>.
+        You can find me on <a href="http://twitter.com/olamy" target="_blank">twitter</a> , <a href="http://fr.linkedin.com/in/olamy" target="_blank">linkedin</a> and some blog entries <a href="http://olamy.blogspot.com/" target="_blank">http://olamy.blogspot.com/</a>.
       </p>
       <p>This resume can change so you can have a look at the <a href="changelog.html">changelog</a></p>
       <subsection name="Work Experience">
@@ -138,7 +138,7 @@
           <b>09/2007 – Present: : Hudson Committer</b>
           <br/>
           <ul>
-            <li>Fix some issues in the Hudson project.</li>
+            <li>Implements maven3 support and fix some issues in the Hudson project.</li>
           </ul>
         </p>
       </subsection> 
