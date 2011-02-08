@@ -135,10 +135,10 @@
             <li>Work on some bug fixes in the Maven main component.</li>
           </ul>
           <br/>
-          <b>09/2007 – Present: : Hudson Committer</b>
+          <b>09/2007 – Present: : Jenkins (previously Hudson) Committer</b>
           <br/>
           <ul>
-            <li>Implements maven3 support and fix some issues in the Hudson project.</li>
+            <li>Implements Apache Maven 3 support and fix some issues in the Jenkins/Hudson project.</li>
           </ul>
         </p>
       </subsection> 
