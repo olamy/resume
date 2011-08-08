@@ -44,7 +44,12 @@
       <p>This resume can change so you can have a look at the <a href="changelog.html">changelog</a></p>
       <subsection name="Work Experience">
         <p>
-          <b>09/2001 – Present  : Technical Lead / Application Architect – Accor (Hospitality Department)</b>
+          <b>08/2011 - present : Open Source Architect <a href="http://www.talend.com" target="_blank">Talend</a></b>
+          <br/><br/>
+          Working on ASF projects : Apache Maven, Apache Archiva, etc...
+        </p>
+        <p>
+          <b>09/2001 – 07/2011  : Technical Lead / Application Architect – Accor (Hospitality Department)</b>
           <br/><br/>
           <i>OpenTravel / XML / Interfaces :</i>
           <br/>

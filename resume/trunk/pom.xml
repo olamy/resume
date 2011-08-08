@@ -47,7 +47,7 @@ under the License.
         <plugin>
           <groupId>org.apache.maven.plugins</groupId>
           <artifactId>maven-site-plugin</artifactId>
-          <version>3.0-beta-3</version>
+          <version>3.0</version>
           <configuration>
             <reportPlugins>
               <plugin>
@@ -83,6 +83,13 @@ under the License.
               </plugin>
             </reportPlugins>
           </configuration>
+          <dependencies>
+            <dependency><!-- add support for ssh/scp -->
+              <groupId>org.apache.maven.wagon</groupId>
+              <artifactId>wagon-ssh</artifactId>
+              <version>1.0</version>
+            </dependency>
+          </dependencies>
         </plugin>   
         <plugin>
           <groupId>org.apache.maven.plugins</groupId>
@@ -122,5 +129,4 @@ under the License.
       <url>http://olamy.googlecode.com/svn/resume/trunk/src/site/resources/LICENSE.txt</url>
     </license>
   </licenses>
- 
 </project>
