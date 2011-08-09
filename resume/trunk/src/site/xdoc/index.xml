@@ -46,7 +46,13 @@
         <p>
           <b>08/2011 - present : Open Source Architect <a href="http://www.talend.com" target="_blank">Talend</a></b>
           <br/><br/>
-          Working on ASF projects : Apache Maven, Apache Archiva, etc...
+          My daily job is to work on Open Source projects used by Talend and to improve Apache Foundation : 
+          <ul>
+            <li>ASF projects : Apache Maven, Apache Archiva, etc...</li>
+            <li>help on ASF infra for build tools</li>
+            <li>Jenkins project</li>
+            <li>Other Open Source : Mojo, Redback from Codehaus</li>
+          </ul>
         </p>
         <p>
           <b>09/2001 – 07/2011  : Technical Lead / Application Architect – Accor (Hospitality Department)</b>
