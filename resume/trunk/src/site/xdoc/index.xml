@@ -48,7 +48,7 @@
           <br/><br/>
           My daily job is to work on Open Source projects used by Talend and to improve Apache Foundation : 
           <ul>
-            <li>ASF projects : Apache Maven, Apache Archiva, etc...</li>
+            <li>ASF projects : Apache Maven, Apache Archiva, Apache Tomcat etc...</li>
             <li>help on ASF infra for build tools</li>
             <li>Jenkins project</li>
             <li>Other Open Source : Mojo, Redback from Codehaus</li>
@@ -112,21 +112,41 @@
         <p>
           <b>09/2007 – Present: Apache Member/Committer/PMC</b>
           <br/><br/>
-          <i>Maven Project:</i>
+          <i>Maven Project (PMC):</i>
           <br/>
           <ul>
             <li>Bug fixes on Maven core and various Maven plugins.</li>
             <li>Main maintainer of Maven Scm library.</li>
           </ul>
           <br/>
-          <i>COntinuum Project (not anymore active in this project):</i>
+          <i>Tomcat Project:</i>
+          <br/>
+          <ul>
+            <li>Work on the maven plugin.</li>
+          </ul>
+          <br/>
+          <i>Archiva Project (PMC).</i>
+          <br/><br/>
+          <i>Commons Project:</i>
+          <br/>
+          <ul>
+            <li>Work on the OGNL project.</li>
+          </ul>
+          <br/>
+          <i>SQOOP Project:</i>
+          <br/>
+          <ul>
+            <li>Work on the incubation process.</li>
+          </ul>
+          <br/>
+          <i>Continuum Project (not anymore active in this project):</i>
           <br/>
           <ul>
             <li>Work on moving from Plexus IOC to Spring.</li>
             <li>Work on moving from velocity to Struts 2.</li>
           </ul>
-          <br/>          
-          <b>09/2007 – Present: : Codehaus Committer</b>
+          <br/>
+          <b>09/2007 – Present: Codehaus Committer</b>
           <br/><br/>
           <i>Plexus Project :</i>
           <br/>
@@ -135,13 +155,13 @@
             <li>Work on some Plexus Components.</li>
           </ul>
           <br/>
-          <i>Mojo Project :</i>
+          <i>Mojo Project:</i>
           <br/>
           <ul>
             <li>Work on various Maven Plugins out of the Apache Foundation.</li>
           </ul>  
           <br/>
-          <i>Modello Project :</i>
+          <i>Modello Project:</i>
           <br/>
           <ul>
             <li>Work on some bug fixes in the Maven main component.</li>
