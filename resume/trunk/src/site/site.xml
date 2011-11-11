@@ -54,6 +54,6 @@ under the License.
         urchinTracker();
       </script>
     </head>
-  	<menu ref="reports"/>
+    <menu ref="reports"/>
   </body>   
 </project>
