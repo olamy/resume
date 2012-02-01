@@ -130,6 +130,10 @@
           </ul>
           <br/>
           <i>Archiva Project (PMC).</i>
+          <ul>
+            <li>Write REST Api</li>
+            <li>Rewrite ui to a plain html/js model</li>
+          </ul>
           <br/><br/>
           <i>Commons Project:</i>
           <br/>
