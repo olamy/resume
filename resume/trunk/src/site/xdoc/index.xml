@@ -114,6 +114,9 @@
       </subsection>
       <subsection name="Open Sources Experiences ">
         <p>
+          See my <a href="https://www.ohloh.net/accounts/olamy" target="_blank">ohloh account</a>
+        </p>
+        <p>
           <b>09/2007 – Present: Apache Member/Committer/PMC</b>
           <br/><br/>
           <i>Maven Project (PMC):</i>
@@ -123,11 +126,8 @@
             <li>Main maintainer of Maven Scm library.</li>
           </ul>
           <br/>
-          <i>Tomcat Project:</i>
+          <i>Tomcat Project (PMC)</i>
           <br/>
-          <ul>
-            <li>Work on the maven plugin.</li>
-          </ul>
           <br/>
           <i>Archiva Project (PMC).</i>
           <ul>
@@ -147,6 +147,11 @@
             <li>Work on the incubation process.</li>
           </ul>
           <br/>
+          <b>09/2007 – Present: : Jenkins (previously Hudson) Committer</b>
+          <br/>
+          <ul>
+            <li>Implements Apache Maven 3 support and fix some issues in the Jenkins/Hudson project.</li>
+          </ul>
           <i>Continuum Project (not anymore active in this project):</i>
           <br/>
           <ul>
@@ -173,12 +178,6 @@
           <br/>
           <ul>
             <li>Work on some bug fixes in the Maven main component.</li>
-          </ul>
-          <br/>
-          <b>09/2007 – Present: : Jenkins (previously Hudson) Committer</b>
-          <br/>
-          <ul>
-            <li>Implements Apache Maven 3 support and fix some issues in the Jenkins/Hudson project.</li>
           </ul>
         </p>
       </subsection> 
