@@ -27,6 +27,7 @@
     <author email="olamy@apache.org">Olivier Lamy</author>
   </properties>
   <body>
+
     <section name="Resume">
       <p>
         You can find a resume in more administrative format <b><a href="olamy-resume.doc">.doc</a></b> or <b><a href="olamy-resume.pdf">.pdf</a></b> (it's normally up2date)
@@ -39,7 +40,9 @@
       <p> 
         If you need more details contact me : olamy AT apache DOT org
         <br/>
-        You can find me on <a href="http://twitter.com/olamy" target="_blank">twitter</a> , <a href="http://fr.linkedin.com/in/olamy" target="_blank">linkedin</a> and some blog entries <a href="http://olamy.blogspot.com/" target="_blank">http://olamy.blogspot.com/</a>.
+        You can find me on <a href="http://twitter.com/olamy" target="_blank">twitter</a> ,
+        <script src="http://platform.linkedin.com/in.js" type="text/javascript"></script> <script type="IN/MemberProfile" data-id="/in/olamy" data-format="hover" data-text="LinkedIn"></script>&nbsp;<a href="http://fr.linkedin.com/in/olamy" target="_blank">linkedin</a>
+        and some blog entries <a href="http://olamy.blogspot.com/" target="_blank">http://olamy.blogspot.com/</a>.
       </p>
       <p>This resume can change so you can have a look at the <a href="changelog.html">changelog</a></p>
       <subsection name="Work Experience">
