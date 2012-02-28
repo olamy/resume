@@ -129,4 +129,11 @@ under the License.
       <url>http://olamy.googlecode.com/svn/resume/trunk/src/site/resources/LICENSE.txt</url>
     </license>
   </licenses>
+  <developers>
+    <developer>
+      <id>olamy</id>
+      <name>Olivier Lamy</name>
+      <email>olamy@apache.org</email>
+    </developer>
+  </developers>
 </project>

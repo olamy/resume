@@ -18,19 +18,24 @@ under the License.
 -->
 <project name="${project.name}-${project.version}"> 
  
-  <!-- 
-  <skin> 
-    <groupId>com.googlecode.fluido-skin</groupId> 
-    <artifactId>fluido-skin</artifactId> 
-    <version>1.3</version> 
-  </skin> 
-  -->
   <skin>
     <groupId>org.apache.maven.skins</groupId>
     <artifactId>maven-fluido-skin</artifactId>
     <version>1.0</version>
   </skin>
-   
+
+  <custom>
+    <fluidoSkin>
+      <topBarEnabled>true</topBarEnabled>
+      <sideBarEnabled>false</sideBarEnabled>
+      <twitter>
+        <user>olamy</user>
+        <showUser>true</showUser>
+        <showFollowers>true</showFollowers>
+      </twitter>
+    </fluidoSkin>
+  </custom>
+  
   <bannerLeft> 
     <name>olamy resume</name> 
     <src>images/olamy-manga.jpg</src> 
@@ -54,6 +59,9 @@ under the License.
         urchinTracker();
       </script>
     </head>
+    <menu name="About">
+      <item name="Home" href="index.html"/>    
+    </menu>
     <menu ref="reports"/>
   </body>   
 </project>
