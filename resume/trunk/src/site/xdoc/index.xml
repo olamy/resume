@@ -156,16 +156,17 @@
           <i>DirectMemory (PMC)</i>
           <br/>
           <br/>
-          <b>09/2007 – Present: : Jenkins (previously Hudson) Committer</b>
-          <br/>
-          <ul>
-            <li>Implements Apache Maven 3 support and fix some issues in the Jenkins/Hudson project.</li>
-          </ul>
           <i>Continuum Project (not anymore active in this project):</i>
           <br/>
           <ul>
             <li>Work on moving from Plexus IOC to Spring.</li>
             <li>Work on moving from velocity to Struts 2.</li>
+          </ul>
+          <br/>
+          <b>09/2007 – Present: : Jenkins (previously Hudson) Committer</b>
+          <br/>
+          <ul>
+            <li>Implements Apache Maven 3 support and fix some issues in the Jenkins/Hudson project.</li>
           </ul>
           <br/>
           <b>09/2007 – Present: Codehaus Committer</b>
