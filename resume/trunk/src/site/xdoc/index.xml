@@ -123,6 +123,9 @@
          </a>
         </p>
         <p>
+          Or my masterbranch account <a href="masterbranch.com/olivier.lamy" target="_blank">masterbranch.com/olivier.lamy</a>
+        </p>
+        <p>
           <b>09/2007 – Present: Apache Member/Committer/PMC</b>
           <br/><br/>
           <i>Maven Project (PMC):</i>
@@ -138,7 +141,7 @@
           <i>Archiva Project (PMC).</i>
           <ul>
             <li>Write REST Api</li>
-            <li>Rewrite ui to a plain html/js model</li>
+            <li>Rewrite ui to a plain html/js model (see <a href="https://archiva-repository.apache.org/archiva/index.html?request_lang=en&amp;screen=browse" target="_blank">https://archiva-repository.apache.org/archiva/index.html?request_lang=en&amp;screen=browse</a>) </li>
           </ul>
           <br/>
           <i>Commons Project:</i>
