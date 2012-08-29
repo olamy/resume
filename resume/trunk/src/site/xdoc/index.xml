@@ -51,7 +51,7 @@
           <br/><br/>
           My daily job is to work on Open Source projects used by Talend and to improve Apache Foundation : 
           <ul>
-            <li>ASF projects : Apache Maven, Apache Archiva, Apache Tomcat, Apache Commons etc...</li>
+            <li>ASF projects : Apache Maven, Apache Archiva, Apache Tomcat, Apache Commons, Apache DirectMemory, Apache Cloudstack etc...</li>
             <li>help on ASF infra for build tools</li>
             <li>Jenkins project</li>
             <li>Other Open Source : Mojo, Redback from Codehaus</li>
@@ -158,6 +158,8 @@
           <br/>
           <i>DirectMemory (PMC)</i>
           <br/>
+          <br/>
+          <i>Cloudstack (PPMC)</i>
           <br/>
           <i>Continuum Project (not anymore active in this project):</i>
           <br/>
