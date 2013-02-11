@@ -144,17 +144,11 @@
             <li>Rewrite ui to a plain html/js model (see <a href="https://archiva-repository.apache.org/archiva/index.html?request_lang=en&amp;screen=browse" target="_blank">https://archiva-repository.apache.org/archiva/index.html?request_lang=en&amp;screen=browse</a>) </li>
           </ul>
           <br/>
-          <i>Commons Project:</i>
+          <i>Commons Project (PMC)</i>
           <br/>
-          <ul>
-            <li>Work on the OGNL project.</li>
-          </ul>
           <br/>
-          <i>SQOOP Project:</i>
+          <i>SQOOP Project (PMC)</i>
           <br/>
-          <ul>
-            <li>Work on the incubation process.</li>
-          </ul>
           <br/>
           <i>DirectMemory (PMC)</i>
           <br/>
