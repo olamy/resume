@@ -29,8 +29,9 @@
   <body>
 
     <section name="Resume">
+      <p>I'm a French OpenSource hacker living at Melbourne, Australia.</p>
       <p>
-        You can find a resume in more administrative format <b><a href="olamy-resume.doc">.doc</a></b> or <b><a href="olamy-resume.pdf">.pdf</a></b>
+        You can find a resume (not sure it's really up2date) in a more administrative format <b><a href="olamy-resume.doc">.doc</a></b> or <b><a href="olamy-resume.pdf">.pdf</a></b>
         And in French (<b><a href="olamy-resume-fr.doc">.doc</a></b>) <b>Note: .doc files can be not up2date as they need manual write, pdf is generated automatically.</b>
       </p>
       <p>As an opensource addict, I use maven to build and publish resume regarding myself :-)</p>
@@ -47,7 +48,15 @@
       <p>This resume can change so you can have a look at the <a href="changelog.html">changelog</a></p>
       <subsection name="Work Experience">
         <p>
-          <b>08/2011 - present : Open Source Architect <a href="http://www.talend.com" target="_blank">Talend</a></b>
+          <b>03/2013 - Present : Managing Consulant and OpenSource hacker for <a href="http://ecetera.com.au" target="_blank">Ecetera</a></b>
+          <br/><br/>
+          My daily job is to do consulting for Ecetera customers and continue doing OpenSource coding
+          <ul>
+            <li>Consulting for <a href="http://target.com.au" target="_blank">Target</a>: working on the platform refactoring to use Apache Camel routes deployed on Apache Karaf instances</li>
+          </ul>
+        </p>
+        <p>
+          <b>08/2011 - 02/2013 : Open Source Architect <a href="http://www.talend.com" target="_blank">Talend</a></b>
           <br/><br/>
           My daily job is to work on Open Source projects used by Talend and to improve Apache Foundation : 
           <ul>
