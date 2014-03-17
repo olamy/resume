@@ -52,6 +52,7 @@
           <br/><br/>
           My daily job is to do consulting for Ecetera customers and continue doing OpenSource coding
           <ul>
+            <li>Consulting for <a href="http://telstra.com.au" target="_blank">Telstra</a>: Implementing an integration solution based on Spring Integration framework to manage messages/data from the MOVES project.</li>
             <li>Consulting for <a href="http://target.com.au" target="_blank">Target</a>: working on the platform refactoring to use Apache Camel routes deployed on Apache Karaf instances</li>
           </ul>
         </p>
