@@ -32,7 +32,7 @@
       <p>I'm a French OpenSource hacker living at Melbourne, Australia.</p>
       <p>
         You can find a resume in a more administrative format <b><a href="olamy-resume.doc">.doc</a></b> or <b><a href="olamy-resume.pdf">.pdf</a></b>
-        And in French (<b><a href="olamy-resume-fr.doc">.doc</a></b>) <b>Note: .doc files can be not up2date as they need manual write, pdf is generated automatically.</b>
+        <b>Note: .doc files can be not up2date as they need manual write, pdf is generated automatically.</b>
       </p>
       <p>As an opensource addict, I use maven to build and publish resume regarding myself :-)</p>
       <p>
