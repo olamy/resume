@@ -30,9 +30,9 @@ under the License.
     And write resume using maven :-)
   </description>
   <scm>
-    <connection>scm:svn:http://olamy.googlecode.com/svn/resume/trunk</connection>
-    <developerConnection>scm:svn:https://olamy.googlecode.com/svn/resume/trunk</developerConnection>
-    <url>http://code.google.com/p/olamy/source/browse/resume/trunk</url>
+    <connection>scm:git:https://github.com/olamy/resume.git</connection>
+    <developerConnection>scm:git:git@github.com:olamy/resume.git</developerConnection>
+    <url>https://github.com/olamy/resume</url>
   </scm>
   <mailingLists>
     <mailingList>
@@ -47,7 +47,7 @@ under the License.
         <plugin>
           <groupId>org.apache.maven.plugins</groupId>
           <artifactId>maven-site-plugin</artifactId>
-          <version>3.3</version>
+          <version>3.4</version>
           <dependencies>
             <dependency><!-- add support for ssh/scp -->
               <groupId>org.apache.maven.wagon</groupId>
