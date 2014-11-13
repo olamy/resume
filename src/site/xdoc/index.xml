@@ -52,7 +52,7 @@
           <br/><br/>
           My daily job is to do consulting for Ecetera customers and continue doing OpenSource coding
           <ul>
-            <li>Consulting for <a href="http:///www.nab.com.au" target="_blank">NAB</a>: Implementing some dashboards on the top of Splunk using Websockect technology and Angularjs technology to make.</li>
+            <li>Consulting for <a href="http:///www.nab.com.au" target="_blank">NAB</a>: Implementing some dashboards on the top of Splunk using Websockect technology and Angularjs technology to make scalable dashboards.</li>
             <li>Consulting for <a href="http://telstra.com.au" target="_blank">Telstra</a>: Implementing an integration solution based on Spring Integration framework to manage messages/data from the MOVES project.</li>
             <li>Consulting for <a href="http://target.com.au" target="_blank">Target</a>: working on the platform refactoring to use Apache Camel routes deployed on Apache Karaf instances</li>
           </ul>
@@ -62,7 +62,7 @@
           <br/><br/>
           My daily job is to work on Open Source projects used by Talend and to improve Apache Foundation : 
           <ul>
-            <li>ASF projects : Apache Maven, Apache Archiva, Apache Tomcat, Apache Commons, Apache DirectMemory, Apache Cloudstack etc...</li>
+            <li>ASF projects : Apache Maven, Apache Archiva, Apache Tomcat, Apache Commons, Apache DirectMemory, Apache Cloudstack, Apache CXF, Apache Camel, etc...</li>
             <li>help on ASF infra for build tools</li>
             <li>Jenkins project</li>
             <li>Other Open Source : Mojo, Redback from Codehaus</li>
