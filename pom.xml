@@ -121,7 +121,8 @@ under the License.
   <distributionManagement>
     <site>
       <id>apache.website</id>
-      <url>scp://people.apache.org/home/olamy/public_html/resume/</url>
+      <!--url>scp://people.apache.org/home/olamy/public_html/resume/</url-->
+      <url>sftp://olamy@home.apache.org/public_html/resume</url>
     </site>
   </distributionManagement>
   <licenses>
